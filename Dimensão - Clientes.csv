@@ -1,0 +1,11 @@
+﻿ID_Cliente,Nome_Cliente,Email,Genero,Data_Nascimento,Cidade,Estado,Regiao
+1,João Silva,joao.silva@email.com,Masculino,1985-03-15,São Paulo,SP,Sudeste
+2,Maria Oliveira,maria.o@email.com,Feminino,1992-07-22,Rio de Janeiro,RJ,Sudeste
+3,Carlos Pereira,carlos.p@email.com,Masculino,1988-01-30,Belo Horizonte,MG,Sudeste
+4,Ana Costa,ana.costa@email.com,Feminino,1995-11-05,Salvador,BA,Nordeste
+5,Pedro Santos,pedro.s@email.com,Masculino,2000-06-10,Porto Alegre,RS,Sul
+6,Sofia Almeida,sofia.a@email.com,Feminino,1998-09-18,Curitiba,PR,Sul
+7,Lucas Rocha,lucas.r@email.com,Masculino,1982-04-25,Brasília,DF,Centro-Oeste
+8,Isabela Martins,isabela.m@email.com,Feminino,1991-02-12,Recife,PE,Nordeste
+9,Mateus Ferreira,mateus.f@email.com,Masculino,1993-08-01,Fortaleza,CE,Nordeste
+10,Laura Gonçalves,laura.g@email.com,Feminino,1999-12-20,Manaus,AM,Norte

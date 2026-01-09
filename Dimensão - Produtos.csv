@@ -1,0 +1,11 @@
+﻿ID_Produto;Nome_Produto;Categoria;Subcategoria;Marca
+101;Smartphone X Pro;Smartphones;iOS;AppleTech
+102;Smartphone G Power;Smartphones;Android;Galaxy
+103;Notebook UltraSlim;Notebooks;Ultrabook;Connecta
+104;Notebook GamerForce;Notebooks;Gamer;Avell
+105;Headset Gamer Pro;Acessórios;Headsets;SoundMax
+106;Mouse Sem Fio Ergo;Periféricos;Mouse;ClickFast
+107;Teclado Mecânico RGB;Periféricos;Teclado;TypeMaster
+108;Webcam Full HD;Acessórios;Webcams;Vision
+109;"Monitor Curvo 27""";Monitores;Gamer;ScreenFlex
+110;SSD 1TB NVMe;Componentes;Armazenamento;SpeedDisk
